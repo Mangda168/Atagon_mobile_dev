@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652911411740",
+    "project_id": "atagon-1fbbd",
+    "storage_bucket": "atagon-1fbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652911411740:android:e08f10d7669a11990055d9",
+        "android_client_info": {
+          "package_name": "com.example.atagon_mobile_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652911411740-c4v62jkhuvmrak7ltmka8sd064r131jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4UigT8bsDaYm47JpHL9KxsgXqREtsxYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652911411740-c4v62jkhuvmrak7ltmka8sd064r131jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
